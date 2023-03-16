@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ravish4532/react.git/static/css/main.77efde6d.css",
+    "main.js": "/Ravish4532/react.git/static/js/main.63cde674.js",
+    "static/js/787.252c5a3f.chunk.js": "/Ravish4532/react.git/static/js/787.252c5a3f.chunk.js",
+    "index.html": "/Ravish4532/react.git/index.html",
+    "main.77efde6d.css.map": "/Ravish4532/react.git/static/css/main.77efde6d.css.map",
+    "main.63cde674.js.map": "/Ravish4532/react.git/static/js/main.63cde674.js.map",
+    "787.252c5a3f.chunk.js.map": "/Ravish4532/react.git/static/js/787.252c5a3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77efde6d.css",
+    "static/js/main.63cde674.js"
+  ]
+}
